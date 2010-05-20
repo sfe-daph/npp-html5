@@ -1,0 +1,25 @@
+Adds support for styling on HTML5 elements for Notepad++
+
+Make sure Notepad++ is closed before replacing langs.xml
+
+abbr
+article
+aside
+audio
+canvas
+datalist
+details
+eventsource
+figure
+footer
+header
+hgroup
+mark
+menu
+meter
+nav
+output
+progress
+section
+time
+video
